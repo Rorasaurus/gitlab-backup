@@ -15,3 +15,5 @@ comparison between the local and remote copy of the backup ensures data integrit
 
 The script doesn't take any arguments. Configuration is done within the script under the 'Variables' section.
 The variables are described and should be self explanitory.
+
+##### Note: The temporary backup directory must be configured within this script AND the gitlab.rb config file.
