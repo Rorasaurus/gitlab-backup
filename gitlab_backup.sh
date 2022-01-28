@@ -6,6 +6,7 @@
 # Notes           :   Requires remote storage mounted to file system
 #                     Logs to stdout by default
 #                     Recommend running as a cronjob
+#                     Gitlab temp backup directory must be same as in gitlab.rb file
 # -------------------------------------------------------------------------------------
 #!/usr/bin/env bash
 
